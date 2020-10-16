@@ -1,10 +1,5 @@
+
 <?php
-/**
- * Created by PhpStorm.
- * User: Kristaps
- * Date: 7/11/2015
- * Time: 2:04 PM
- */
 
 session_start();
 
